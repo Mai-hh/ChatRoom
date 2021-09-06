@@ -1,4 +1,4 @@
-package com.maihao.common.client.service;
+package com.maihao.client.service;
 
 import java.util.HashMap;
 

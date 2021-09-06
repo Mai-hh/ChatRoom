@@ -1,9 +1,7 @@
-package com.maihao.common.client.view;
+package com.maihao.client.view;
 
-import com.maihao.common.Message;
-import com.maihao.common.MsgType;
-import com.maihao.common.client.service.ClientService;
-import com.maihao.common.client.util.Utility;
+import com.maihao.client.service.ClientService;
+import com.maihao.client.util.Utility;
 
 /**
  * 菜单

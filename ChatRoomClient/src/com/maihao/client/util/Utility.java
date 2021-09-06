@@ -1,4 +1,4 @@
-package com.maihao.common.client.util;
+package com.maihao.client.util;
 
 import java.util.Scanner;
 
