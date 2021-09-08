@@ -66,6 +66,7 @@ public class View {
 
                     break;
                 case "0":
+                    clientService.exitClient();
                     loop = false;
                     break;
             }

@@ -10,4 +10,6 @@ public interface MsgType {
 
     String TYPE_CLIENT_EXIT = "4"; //客户端退出
 
+    String TYPE_CLIENT_ENTER = "5"; //客户端进入
+
 }
